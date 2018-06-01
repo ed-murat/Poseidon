@@ -1,0 +1,1 @@
+audio_play_sound(SoundPing,0,0);

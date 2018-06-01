@@ -1,0 +1,4 @@
+//Map tiles
+
+#macro MAPTILE_SEA 0
+#macro MAPTILE_PRELUDE_ISLAND 1
